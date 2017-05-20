@@ -1,7 +1,7 @@
 ## Day 1 JS Challenge
 
-This challenge is in three parts. Create a file called `day_1_challenge.js` in which you will implement your solution 
-and then run it the usual way in Node.js `node day_1_challenge.js`
+This challenge is in three parts. Create a file called `Day1.js` in which you will implement your solution 
+and then run it the usual way in Node.js `node Day1.js`.
 
 ### Part One
 
